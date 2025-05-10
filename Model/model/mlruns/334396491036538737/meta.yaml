@@ -1,0 +1,7 @@
+artifact_location: file:///i:/Mi unidad/Data Science/Projects/Hotel Booking Forcast
+  & Sentiment Analysis/Training/../Model/model/mlruns/334396491036538737
+creation_time: 1745435790638
+experiment_id: '334396491036538737'
+last_update_time: 1745435790638
+lifecycle_stage: active
+name: hotel_booking_pred

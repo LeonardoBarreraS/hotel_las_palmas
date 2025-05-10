@@ -1,0 +1,16 @@
+artifact_uri: file:///i:/Mi unidad/Data Science/Projects/Hotel Booking Forcast & Sentiment
+  Analysis/Training/../Model/model/mlruns/334396491036538737/cea8552ba34e4e75aeb49fbe8efe0751/artifacts
+end_time: 1746835556428
+entry_point_name: ''
+experiment_id: '334396491036538737'
+lifecycle_stage: active
+run_id: cea8552ba34e4e75aeb49fbe8efe0751
+run_name: luminous-lark-447
+run_uuid: cea8552ba34e4e75aeb49fbe8efe0751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746835372376
+status: 3
+tags: []
+user_id: Leonardo Barrera

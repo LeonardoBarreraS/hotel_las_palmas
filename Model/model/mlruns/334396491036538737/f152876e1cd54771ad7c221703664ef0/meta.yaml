@@ -1,0 +1,16 @@
+artifact_uri: file:///i:/Mi unidad/Data Science/Projects/Hotel Booking Forcast & Sentiment
+  Analysis/Training/../Model/model/mlruns/334396491036538737/f152876e1cd54771ad7c221703664ef0/artifacts
+end_time: 1745435989001
+entry_point_name: ''
+experiment_id: '334396491036538737'
+lifecycle_stage: active
+run_id: f152876e1cd54771ad7c221703664ef0
+run_name: bouncy-rook-595
+run_uuid: f152876e1cd54771ad7c221703664ef0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745435793562
+status: 3
+tags: []
+user_id: Leonardo Barrera
